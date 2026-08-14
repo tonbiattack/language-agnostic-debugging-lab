@@ -1,0 +1,17 @@
+# Java build output
+out/
+*.class
+*.jar
+
+# Packaged distribution artifacts
+*.zip
+
+# Local application progress
+.debugging-lab-progress.tsv
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
